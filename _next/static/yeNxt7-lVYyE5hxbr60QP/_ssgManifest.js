@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fgokart\u002Fyears\u002F[year]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
